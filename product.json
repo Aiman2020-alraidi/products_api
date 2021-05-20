@@ -1,0 +1,60 @@
+{
+   "company": [
+        {
+          "id": "recZkNf2kwmdBcqd0",
+          "name": "zen book",
+          "price": 55999,
+          "image": "https://dlcdnimgs.asus.com/websites/global/products/5rAsFTJIgNgqRCb1/img/p1_1_img.png",
+          "colors": [
+            "#ff0000",
+            "#00ff00",
+            "#0000ff"
+          ],
+          "company": "Asus",
+          "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+          "category": "office",
+          "shipping": true
+        },
+        {
+          "id": "recEHmzvupvT8ZONH",
+          "name": "think lab",
+          "price": 109999,
+          "image": "https://i1.wp.com/itc.ua/wp-content/uploads/2021/02/04_thinpad_l15_gen_2_15inch_hero_front_facing_left_intel.png?quality=100&strip=all&ssl=1",
+          "colors": [
+            "#000",
+            "#ffb900"
+          ],
+          "company": "Lenovo",
+          "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+          "category": "living room"
+        },
+        {
+          "id": "rec5NBwZ5zCD9nfF0",
+          "name": "mac pro",
+          "price": 309999,
+          "image": "https://dl.airtable.com/.attachmentThumbnails/7478483f40a2f56662a87b304bd4e104/707d397f",
+          "colors": [
+            "#ffb900",
+            "#0000ff"
+          ],
+          "company": "apple",
+          "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+          "category": "kitchen"
+        },
+        {
+          "id": "recd1jIVIEChmiwhe",
+          "name": "acer notebook",
+          "price": 12599,
+          "image": "https://www.ixbt.com/img/n1/news/2020/4/3/As_A717-71G_wp_win10_02_large.png",
+          "colors": [
+            "#000",
+            "#00ff00",
+            "#0000ff"
+          ],
+          "company": "acer",
+          "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter e",
+          "category": "bedroom",
+          "shipping": true
+        }
+      ]
+}
