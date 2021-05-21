@@ -79,6 +79,7 @@
           "name": "samsung s9",
           "price": 12599,
           "image": "https://lh3.googleusercontent.com/proxy/79kQmKieeDo0iiAHKEk1EJi-wR3LJDE9qn03sAuffw2Cm8Ao2us2FIKei8CUloyImcJZg1tNvbTo0NtQWBKEdBydKTyYpcp1PoDjXPWq8LJze_Xc1ivSyVk",
+          "featured": true,
           "colors": [
             "#000",
             "#00ff00",
@@ -93,7 +94,9 @@
           "id": "recd1jIVIEChmiwhe",
           "name": "iphone 6",
           "price": 12599,
+          
           "image": "https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP726/SP726-iphone6s-rosegold-select-2015.png",
+          "featured": true,
           "colors": [
             "#000",
             "#00ff00",
@@ -109,6 +112,7 @@
           "name": "iphone 7",
           "price": 12599,
           "image": "https://galleonenterprises.ph/wp-content/uploads/2020/02/iphone-7-plus-rose-gold-png-3.png",
+          "featured": true,
           "colors": [
             "#000",
             "#00ff00",
