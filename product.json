@@ -21,6 +21,7 @@
           "name": "think lab",
           "price": 109999,
           "image": "https://i1.wp.com/itc.ua/wp-content/uploads/2021/02/04_thinpad_l15_gen_2_15inch_hero_front_facing_left_intel.png?quality=100&strip=all&ssl=1",
+          "featured": true,
           "colors": [
             "#000",
             "#ffb900"
@@ -48,6 +49,7 @@
           "name": "acer notebook",
           "price": 12599,
           "image": "https://www.ixbt.com/img/n1/news/2020/4/3/As_A717-71G_wp_win10_02_large.png",
+          "featured": true,
           "colors": [
             "#000",
             "#00ff00",
@@ -96,7 +98,6 @@
           "price": 12599,
           
           "image": "https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP726/SP726-iphone6s-rosegold-select-2015.png",
-          "featured": true,
           "colors": [
             "#000",
             "#00ff00",
@@ -112,7 +113,6 @@
           "name": "iphone 7",
           "price": 12599,
           "image": "https://galleonenterprises.ph/wp-content/uploads/2020/02/iphone-7-plus-rose-gold-png-3.png",
-          "featured": true,
           "colors": [
             "#000",
             "#00ff00",
