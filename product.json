@@ -12,7 +12,7 @@
           ],
           "company": "Asus",
           "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
-          "category": "office",
+          "category": "labtop",
           "shipping": true
         },
         {
@@ -26,7 +26,7 @@
           ],
           "company": "Lenovo",
           "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
-          "category": "living room"
+          "category": "labtop"
         },
         {
           "id": "rec5NBwZ5zCD9nfF0",
@@ -53,7 +53,82 @@
           ],
           "company": "acer",
           "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter e",
-          "category": "bedroom",
+          "category": "labtop",
+          "shipping": true
+        },
+        {
+          "id": "recd1jIVIEChmiwhe",
+          "name": "toshiba notebook",
+          "price": 12599,
+          "image": "https://www.ixbt.com/img/n1/news/2020/4/3/As_A717-71G_wp_win10_02_large.png",
+          "colors": [
+            "#000",
+            "#00ff00",
+            "#0000ff"
+          ],
+          "company": "toshiba",
+          "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter e",
+          "category": "labtop",
+          "shipping": true
+        },
+        {
+          "id": "recd1jIVIEChmiwhe",
+          "name": "samsung s9",
+          "price": 12599,
+          "image": "https://lh3.googleusercontent.com/proxy/79kQmKieeDo0iiAHKEk1EJi-wR3LJDE9qn03sAuffw2Cm8Ao2us2FIKei8CUloyImcJZg1tNvbTo0NtQWBKEdBydKTyYpcp1PoDjXPWq8LJze_Xc1ivSyVk",
+          "colors": [
+            "#000",
+            "#00ff00",
+            "#0000ff"
+          ],
+          "company": "samsung",
+          "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter e",
+          "category": "phone",
+          "shipping": true
+        },
+        {
+          "id": "recd1jIVIEChmiwhe",
+          "name": "iphone 6",
+          "price": 12599,
+          "image": "https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP726/SP726-iphone6s-rosegold-select-2015.png",
+          "colors": [
+            "#000",
+            "#00ff00",
+            "#0000ff"
+          ],
+          "company": "apple",
+          "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter e",
+          "category": "phone",
+          "shipping": true
+        },
+        {
+          "id": "recd1jIVIEChmiwhe",
+          "name": "iphone 7",
+          "price": 12599,
+          "image": "https://galleonenterprises.ph/wp-content/uploads/2020/02/iphone-7-plus-rose-gold-png-3.png",
+          "colors": [
+            "#000",
+            "#00ff00",
+            "#0000ff"
+          ],
+          "company": "apple",
+          "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter e",
+          "category": "phone",
+          "shipping": true
+        },
+        {
+          "id": "recd1jIVIEChmiwhe",
+          "name": "iphone 11",
+          "price": 12599,
+          "image": "https://free-png.ru/wp-content/uploads/2021/02/10-ajfon-9585b8bc.png",
+          "colors": [
+            "#000",
+            "#00ff00",
+            "#0000ff"
+          ],
+          "company": "apple",
+          "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter e",
+          "category": "phone",
           "shipping": true
         }
       ]
