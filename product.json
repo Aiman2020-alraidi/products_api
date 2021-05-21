@@ -5,6 +5,7 @@
           "name": "zen book",
           "price": 55999,
           "image": "https://dlcdnimgs.asus.com/websites/global/products/5rAsFTJIgNgqRCb1/img/p1_1_img.png",
+          "featured": true,
           "colors": [
             "#ff0000",
             "#00ff00",
@@ -33,6 +34,7 @@
           "name": "mac pro",
           "price": 309999,
           "image": "https://royal-service.store/content/images/38/apple-macbook-pro-16-1tb-ssd-2019-space-gray-mvvk2-86330319193428.png",
+          "featured": true,
           "colors": [
             "#ffb900",
             "#0000ff"
@@ -61,6 +63,7 @@
           "name": "toshiba notebook",
           "price": 12599,
           "image": "https://www.ixbt.com/img/n1/news/2020/4/3/As_A717-71G_wp_win10_02_large.png",
+          "featured": true,
           "colors": [
             "#000",
             "#00ff00",
@@ -97,7 +100,7 @@
             "#0000ff"
           ],
           "company": "apple",
-          "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter e",
+          "description": "ASUS ZenBook 14 UX434F is a premium ultraportable 14-inch laptop with good ... Specifications and features vary by model, and all images are illustrative.",
           "category": "phone",
           "shipping": true
         },
