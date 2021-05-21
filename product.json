@@ -174,7 +174,22 @@
           ],
           "company": "samsung",
           "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter e",
-          "category": "ipad",
+          "category": "tablet",
+          "shipping": true
+        },
+        {
+          "id": "recd1jIVIEChmiwhe",
+          "name": "tablet 4",
+          "price": 12599,
+          "image": "https://images.samsung.com/is/image/samsung/uk-galaxy-tab-4-10-1-t530-sm-t530nykabtu-010-front-black",
+          "colors": [
+            "#000",
+            "#00ff00",
+            "#0000ff"
+          ],
+          "company": "samsung",
+          "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter e",
+          "category": "tablet",
           "shipping": true
         }
       ]
