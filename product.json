@@ -131,5 +131,51 @@
           "category": "phone",
           "shipping": true
         }
+        ,
+        {
+          "id": "recd1jIVIEChmiwhe",
+          "name": "ipad 4",
+          "price": 12599,
+          "image": "https://maxmobiles.ru/service/ipad-4.png",
+          "colors": [
+            "#000",
+            "#00ff00",
+            "#0000ff"
+          ],
+          "company": "apple",
+          "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter e",
+          "category": "ipad",
+          "shipping": true
+        },
+        {
+          "id": "recd1jIVIEChmiwhe",
+          "name": "ipad pro",
+          "price": 12599,
+          "image": "https://res-3.cloudinary.com/grover/image/upload/e_trim/c_limit,f_auto,fl_png8.lossy,h_1280,q_auto,w_1280/v1564676150/gvfyjlypere4w2ve2lbi.png",
+          "colors": [
+            "#000",
+            "#00ff00",
+            "#0000ff"
+          ],
+          "company": "apple",
+          "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter e",
+          "category": "ipad",
+          "shipping": true
+        },
+        {
+          "id": "recd1jIVIEChmiwhe",
+          "name": "tablet pro",
+          "price": 12599,
+          "image": "https://images.samsung.com/is/image/samsung/no-galaxy-tab-s3-9-7-t825-sm-t825nzsanee-000000001-front-silver-61645829",
+          "colors": [
+            "#000",
+            "#00ff00",
+            "#0000ff"
+          ],
+          "company": "samsung",
+          "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter e",
+          "category": "ipad",
+          "shipping": true
+        }
       ]
 }
