@@ -47,7 +47,7 @@
         {
           "id": "recd1jIVIEChmiwhe",
           "name": "acer notebook",
-          "price": 12599,
+          "price": 52599,
           "image": "https://www.ixbt.com/img/n1/news/2020/4/3/As_A717-71G_wp_win10_02_large.png",
           "featured": true,
           "colors": [
@@ -79,7 +79,7 @@
         {
           "id": "recd1jIVIEChmiwhe",
           "name": "samsung s9",
-          "price": 12599,
+          "price": 62599,
           "image": "https://images.samsung.com/is/image/samsung/ru-galaxy-note9-n960-sm-n960fzbdser-frontblue-117704099",
           "featured": true,
           "colors": [
@@ -95,7 +95,7 @@
         {
           "id": "recd1jIVIEChmiwhe",
           "name": "iphone 6",
-          "price": 12599,
+          "price": 12799,
           
           "image": "https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP726/SP726-iphone6s-rosegold-select-2015.png",
           "colors": [
@@ -111,7 +111,7 @@
         {
           "id": "recd1jIVIEChmiwhe",
           "name": "iphone 7",
-          "price": 12599,
+          "price": 12099,
           "image": "https://galleonenterprises.ph/wp-content/uploads/2020/02/iphone-7-plus-rose-gold-png-3.png",
           "colors": [
             "#000",
@@ -126,7 +126,7 @@
         {
           "id": "recd1jIVIEChmiwhe",
           "name": "iphone 11",
-          "price": 12599,
+          "price": 16599,
           "image": "https://free-png.ru/wp-content/uploads/2021/02/10-ajfon-9585b8bc.png",
           "colors": [
             "#000",
@@ -142,7 +142,7 @@
         {
           "id": "recd1jIVIEChmiwhe",
           "name": "ipad 4",
-          "price": 12599,
+          "price": 18599,
           "image": "https://maxmobiles.ru/service/ipad-4.png",
           "colors": [
             "#000",
@@ -157,7 +157,7 @@
         {
           "id": "recd1jIVIEChmiwhe",
           "name": "ipad pro",
-          "price": 12599,
+          "price": 22599,
           "image": "https://res-3.cloudinary.com/grover/image/upload/e_trim/c_limit,f_auto,fl_png8.lossy,h_1280,q_auto,w_1280/v1564676150/gvfyjlypere4w2ve2lbi.png",
           "colors": [
             "#000",
@@ -172,7 +172,7 @@
         {
           "id": "recd1jIVIEChmiwhe",
           "name": "tablet pro",
-          "price": 12599,
+          "price": 32599,
           "image": "https://images.samsung.com/is/image/samsung/no-galaxy-tab-s3-9-7-t825-sm-t825nzsanee-000000001-front-silver-61645829",
           "colors": [
             "#000",
@@ -187,7 +187,7 @@
         {
           "id": "recd1jIVIEChmiwhe",
           "name": "tablet 4",
-          "price": 12599,
+          "price": 42599,
           "image": "https://images.samsung.com/is/image/samsung/uk-galaxy-tab-4-10-1-t530-sm-t530nykabtu-010-front-black",
           "colors": [
             "#000",
